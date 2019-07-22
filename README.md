@@ -7,4 +7,8 @@ Este material inclui:
  - Apresentação;
  - Material de apoio à identificação de competências;
  - Material de apoio à elaboração de questões;
- - e o endereço do Compensar .
+ - e o endereço do Compensar.
+ 
+ Link compensar:
+ 
+ https://compensarufcg.herokuapp.com/login
