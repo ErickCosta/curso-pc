@@ -11,4 +11,4 @@ Este material inclui:
  
  Link compensar:
  
- https://compensarufcg.herokuapp.com/login
+ https://compensarufcg.herokuapp.com
